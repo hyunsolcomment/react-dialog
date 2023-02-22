@@ -1,7 +1,8 @@
-import DialogHook from "./types/DialogHook";
-import {useState,useEffect} from 'react';
+import {useState} from 'react';
 import Position from "./types/Position";
 import DialogGlobal from "./DialogGlobal";
+import SelectActionType from "./types/SelectActionType";
+import DialogHook from './types/DialogHook';
 
 function useDialog(): DialogHook {
     

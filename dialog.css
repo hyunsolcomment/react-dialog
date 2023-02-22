@@ -3,7 +3,7 @@
     border: 1px solid black;
     background: white;
     resize: both;
-    z-index: 999
+    z-index: 999;
 }
 
 .react-dialog_dialog>.select-point {
